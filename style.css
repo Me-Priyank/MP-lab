@@ -1,0 +1,28 @@
+#main {
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 100%;
+    width: 50%;
+    border: 2px solid black;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#img {
+    height: 160px;
+    transform: translate(-20px,0px);
+}
+
+#table {
+    margin-left: auto;
+    margin-right: auto;
+}
